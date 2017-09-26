@@ -2,4 +2,9 @@ Simeon Tsonev
 Sofia
 Doing Sport-jogging, hiking, table tennis.
 I think this is the best place to study IT in Bulgaria
+<<<<<<< HEAD
 changes from master
+=======
+
+my design
+>>>>>>> Design
